@@ -12,9 +12,9 @@ This is a python implementation of [(Jafari et. al)](http://ieeexplore.ieee.org/
   
 # Usage
 
-`git clone https://github.com/DavideNardone/PySMRS.git` <br>
+`git clone https://github.com/DavideNardone/Greedy-Adaptive-Dictionary.git` <br>
 
-`unzip PySMRS-master.py`
+`unzip Greedy-Adaptive-Dictionary-master.py`
 
 then... run one of the following python file:
 
