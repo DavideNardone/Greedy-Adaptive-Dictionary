@@ -8,7 +8,7 @@ This is a python implementation of [(Jafari et. al)](http://ieeexplore.ieee.org/
 # Prerequisites
 
   - Python 2.7 or greater <br>
-  - Librosa or any other package for audio signal reading 
+  - Librosa or any other package for reading audio signals
   
 # Usage
 
