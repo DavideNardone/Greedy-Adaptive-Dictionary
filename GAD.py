@@ -1,5 +1,4 @@
 from __future__ import division
-from numpy.linalg import inv
 from numpy import linalg as LA
 
 import numpy as np
@@ -153,7 +152,7 @@ if __name__ == '__main__':
         'verbose': True
     }
 
-    signal, fs = librosa.core.load('/home/davidenardone/MATLAB/GAD/dataset/source1.wav')
+    signal, fs = librosa.core.load('./dataset/source1.wav')
 
     X_tmp = buffer(signal, L, M)
 
