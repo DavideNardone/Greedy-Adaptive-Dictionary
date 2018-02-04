@@ -16,7 +16,7 @@ This is a python implementation of [(Jafari et. al)](http://ieeexplore.ieee.org/
 
 `unzip Greedy-Adaptive-Dictionary-master.py`
 
-then... run one of the following python file:
+then... run the following python file:
 
 `GAD.py (naive example)` <br>
 
