@@ -3,7 +3,7 @@
 This is a python implementation of [(Jafari et. al)](http://ieeexplore.ieee.org/document/5776648/). They present a greedy adaptive dictionary learning algorithm that sets out to find sparse atoms for speech signals. The algorithm learns the dictionary atoms on data frames taken from a speech signal. It iteratively extracts the data frame with minimum sparsity index, and adds this to the dictionary matrix. The contribution of this atom to the data frames is then removed, and the process is repeated. The algorithm is found to yield a sparse signal decomposition, supporting the hypothesis of a link between sparsity in the decomposition and dictionary. The algorithm is applied to the problem of speech representation and speech denoising, and its performance is compared to other existing methods. 
 
 
-# Prerequisites
+# Pre-requisites
 
   - Python 2.7 or greater <br>
   - Librosa or any other package for reading audio signals
